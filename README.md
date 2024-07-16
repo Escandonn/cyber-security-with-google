@@ -6,6 +6,7 @@ Bienvenido a mi repositorio de GitHub, un espacio dedicado a recopilar, organiza
 
 ## Objetivo del Repositorio
 
+
 El objetivo principal de este repositorio es documentar de manera exhaustiva todo el conocimiento adquirido a lo largo del curso, incluyendo conceptos teóricos, prácticas recomendadas, estrategias de defensa, técnicas de análisis y respuesta ante incidentes, así como la implementación de medidas de seguridad en diferentes entornos tecnológicos.
 
 ## Contenido del Repositorio
